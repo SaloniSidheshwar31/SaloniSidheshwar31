@@ -74,7 +74,7 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 ### Fun Fact 🎨
 
-I'm not training models, you’ll find me sketching doodles that are *almost* as intelligent as my algorithms! 🎨🤖
+When I'm not training models, you’ll find me sketching doodles that are *almost* as intelligent as my algorithms! 🎨🤖
 
 ---
 
