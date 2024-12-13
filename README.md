@@ -1,4 +1,4 @@
-## Hi, I'm Saloni Sidheshwar 👋
+## Hi, I'm Saloni Sidheshwar! 👋
 
 I am a **Data Science student** with a strong academic foundation and hands-on experience in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, **Data Structures**, and **Algorithms**. With a keen interest in solving complex real-world problems through data-driven solutions, I am constantly learning and applying advanced techniques in AI/ML to build scalable, efficient systems.
 
