@@ -50,7 +50,7 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 ### How to Reach Me 📬
 
-- Email: p39salonisidheshwar31@gmail.com
+- Email: p39salonisidheshwar@gmail.com
 
 - LinkedIn: [Saloni Sidheshwar](https://www.linkedin.com/in/saloni-sidheshwar-067a8b259/)
 
