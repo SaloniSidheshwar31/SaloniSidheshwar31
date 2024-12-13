@@ -10,8 +10,6 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 - **Deep Learning**: Hands-on experience in **Neural Networks**, particularly **Convolutional Neural Networks (CNNs)** for image processing. Familiar with frameworks such as TensorFlow and PyTorch.
 
-- **Natural Language Processing (NLP)**: Skilled in text processing techniques including tokenization, lemmatization, and sentiment analysis using **Transformers** and other state-of-the-art NLP models.
-
 - **Data Structures & Algorithms**: Strong foundation in optimizing algorithms for time and space efficiency. Experience in solving complex algorithmic challenges and implementing common data structures such as trees, graphs, and hash maps.
 
 - **Data Analysis & Visualization**: Expertise in extracting insights from structured and unstructured data using **Pandas**, **NumPy**, and visualizing results with **Matplotlib**, **Seaborn**, and **Plotly**.
@@ -24,17 +22,7 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 - Exploring **Reinforcement Learning** and its integration into real-world applications such as robotics and game theory.
 
-- Improving proficiency in **cloud computing** platforms (AWS, GCP, Azure) for deploying and scaling machine learning models in production environments.
-
 - Developing algorithms for **big data** processing and **distributed computing** to optimize performance at scale.
-
----
-
-### Learning & Professional Development 📚
-
-- Expanding knowledge in **AI Ethics**, focusing on responsible AI development and ensuring fairness, accountability, and transparency in machine learning models.
-
-- Engaging in **continuous learning** through academic courses, research papers, and contributing to open-source projects.
 
 ---
 
@@ -56,10 +44,6 @@ I am a **Data Science student** with a strong academic foundation and hands-on e
 
 - **Data Science Tools**: Pandas, NumPy, SciPy, Plotly, Seaborn, Matplotlib
 
-- **Cloud Platforms**: AWS, Google Cloud Platform (GCP), Microsoft Azure
-
-- **Version Control**: Git, GitHub
-
 - **Databases**: MySQL, FireBase, MongoDB
 
 ---
@@ -78,4 +62,4 @@ When I'm not training models, you’ll find me sketching doodles that are *almos
 
 ---
 
-I am always open to new opportunities to collaborate, innovate, and contribute to projects that leverage **AI/ML** to create meaningful impact. Feel free to explore my repositories to see my work, and reach out if you're interested in collaborating or discussing potential projects.
+I am always open to new opportunities to collaborate, innovate, and contribute to projects that leverage to create meaningful impact. Feel free to explore my repositories to see my work, and reach out if you're interested in collaborating or discussing potential projects.
